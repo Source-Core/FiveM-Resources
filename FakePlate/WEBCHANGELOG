@@ -1,0 +1,8 @@
+[
+    {
+        "name":"",
+        "notes":["[new] Test web json #1","[fixed] Test web json #2","[improved] Test web json #3","[removed] Test web json #4","[added] Test web json #5","Test web json #6"],
+        "pub_date":"2020-07-01T00:00:00Z",
+        "version":"0.0.1"
+    }
+]

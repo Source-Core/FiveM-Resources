@@ -1,0 +1,5 @@
+- Añadido comandos para gestión de tickets
+- Corregido sistema de refresh de grupos de servidor
+- Implementado obtención de grupos de servidor mediante ESX
+- Eliminada dependencia MySQL-Async
+- Corregido errores menores
